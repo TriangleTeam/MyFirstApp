@@ -10,7 +10,7 @@
         android:layout_width="177dp"
         android:layout_height="wrap_content"
         android:paddingLeft="50dp"
-        android:text="我不是微信hhh"
+        android:text="我不是微信ssss"
         android:textColor="@color/colorAccent"
         android:textSize="10dp"
         android:textStyle="bold|italic" />
