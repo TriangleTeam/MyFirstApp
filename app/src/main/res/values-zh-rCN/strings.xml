@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">第一个APP软件</string>
+    <string name="edit_message">输入消息</string>
+    <string name="button_send">发送</string>
+</resources>
